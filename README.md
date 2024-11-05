@@ -1,3 +1,7 @@
+# Hi 👋 I'm Anisha Shankar
+![Welcome GIF](https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA4MzA4NDIsIm5iZiI6MTczMDgzMDU0MiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTA1VDE4MTU0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYyZTc3NTA3MjFmYjE2MmI4Nzc2NjFlYjAyZjJiZmU2Nzk3YzU0OWNjYTAyNTQxMWZkZmZhYTk2ZjU4OTdhOGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.7RN8WTPLwUrQNDB2z_H_A51oU53R4tzix0q4ryjBD4s)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&center=false&vCenter=true&width=450&lines=Passionate+Frontend+Developer;Open+Source+Contributor)
+
 # 💫 About Me:
 🔭 I’m currently working on developing a few machine learning models that tackle real-world challenges, with a focus on accuracy and innovation.<br>👯 I’m looking to collaborate on Projects in AI, web development, or anything experimental and impactful—I'm all about hands-on problem-solving.<br>🤝 I’m looking for help with data structures and comp sci concepts<br>🌱 I’m currently learning ML techniques and refining my skills<br>
 
