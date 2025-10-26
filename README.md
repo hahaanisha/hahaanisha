@@ -1,12 +1,15 @@
 # Hi 👋 I'm Anisha Shankar
-<img src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="400">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&center=false&vCenter=true&width=450&lines=Passionate+Frontend+Developer;Open+Source+Contributor;+ML+Enthusiast)
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=hahaanisha)
+![GitHub User's stars](https://img.shields.io/github/stars/hahaanisha?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
+<div align="center">
+  <img src="https://64.media.tumblr.com/23ab6ab83aa8b30dd0c5614973f75816/4436965a9c018cab-f7/s1280x1920/e5c661fdc5e9a212b20037e072f8a05d2d06df16.gifv" width="700">
+</div>
 
 # 💫 About Me:
+![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&center=false&vCenter=true&width=450&lines=Passionate+Frontend+Developer;Open+Source+Contributor;+ML+Enthusiast)
+
 🧩 Currently trying to become a useful engineer before I graduate<br>🛠️ Always picking up one new tool while forgetting the last three I learned<br>🔍 Trying to understand pointers without confusing myself and leveling up core CS fundamentals<br>🎒 Side quests: teaching kids, hackathons, reading, and saving posts I never read again<br>🔧 One day I’ll write clean code on the first try. Today is not that day
 
 
