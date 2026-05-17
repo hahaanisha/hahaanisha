@@ -5,7 +5,7 @@
 </div>
 
 ## 💫 About Me:
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7C3AED&width=500&lines=Frontend+Developer+%26+ML+Tinkerer;Hackathon+Winner+(₹1.3L+%26+counting);IEEE+Published+Author;Engineering+student+from+Mumbai) 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7C3AED&width=500&lines=Engineering+student+from+Mumbai;Passionate+Software+Developer;Open+Source+Contributor;+ML+Enthusiast) 
 
 🧩 Currently trying to become a useful engineer before I graduate<br>🛠️ Always picking up one new tool while forgetting the last three I learned<br>🎒 Side quests: teaching kids, hackathons, reading, and saving posts I never read again<br>🔧 One day I’ll write clean code on the first try. Today is not that day
 
